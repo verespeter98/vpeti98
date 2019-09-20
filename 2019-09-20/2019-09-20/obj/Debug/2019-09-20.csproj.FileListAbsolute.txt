@@ -1,0 +1,10 @@
+C:\Users\veres\source\repos\2019-09-20\2019-09-20\bin\Debug\2019-09-20.exe.config
+C:\Users\veres\source\repos\2019-09-20\2019-09-20\bin\Debug\2019-09-20.exe
+C:\Users\veres\source\repos\2019-09-20\2019-09-20\bin\Debug\2019-09-20.pdb
+C:\Users\veres\source\repos\2019-09-20\2019-09-20\obj\Debug\2019-09-20.csprojAssemblyReference.cache
+C:\Users\veres\source\repos\2019-09-20\2019-09-20\obj\Debug\_2019_09_20.Form1.resources
+C:\Users\veres\source\repos\2019-09-20\2019-09-20\obj\Debug\_2019_09_20.Properties.Resources.resources
+C:\Users\veres\source\repos\2019-09-20\2019-09-20\obj\Debug\2019-09-20.csproj.GenerateResource.cache
+C:\Users\veres\source\repos\2019-09-20\2019-09-20\obj\Debug\2019-09-20.csproj.CoreCompileInputs.cache
+C:\Users\veres\source\repos\2019-09-20\2019-09-20\obj\Debug\2019-09-20.exe
+C:\Users\veres\source\repos\2019-09-20\2019-09-20\obj\Debug\2019-09-20.pdb
